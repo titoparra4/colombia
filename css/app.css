@@ -627,6 +627,15 @@ video {
   }
 }
 
+.encabezado {
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: #2d3748;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
 .appearance-none {
   -webkit-appearance: none;
      -moz-appearance: none;
